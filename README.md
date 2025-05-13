@@ -13,7 +13,9 @@ Highlights:
 - 🚨 Error Handling (Frontend & Backend)
 - 🚀 Free Deployment
 - 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
+- ⏳ Real chat app
+- grammar correction
+- text suggestion
 
 ---
 
